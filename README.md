@@ -10,6 +10,9 @@ I prefer stable and long time support versions of the .NET framework so I use .N
 Includes data-access patterns such as UnitofWork/MS SQL Server etc. and other enterprise design practices,
 as these were explicitly highlighted as areas of interest by the technical reviewers.
 
+## Postman
+For testing in Postman, collections file `RealEstate.postman_collection.json` added
+
 ## Tech Stack
 
 - **Language:** C# (.NET 8)
