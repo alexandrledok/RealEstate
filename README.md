@@ -30,9 +30,9 @@ For testing in Postman, collections file `RealEstate.postman_collection.json` ad
 
 ## Getting Started
 
-1.Clone repository
-2.Set the `"DefaultConnection"` in `RealEstate.Api/appsettings.json`
-3.Run solution with startup project: `RealEstate.Api` 
+1. Clone repository
+2. Set the `"DefaultConnection"` in `RealEstate.Api/appsettings.json`
+3. Run solution with startup project: `RealEstate.Api` 
 
 
 > ⚙️ On first run, the project will automatically:
